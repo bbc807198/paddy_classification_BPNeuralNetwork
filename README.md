@@ -1,0 +1,2 @@
+# paddy_classification_BPNeuralNetwork
+基于python通过神经网络模型实现关于水稻产量分类
